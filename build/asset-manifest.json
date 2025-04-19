@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FARM-MANAGEMENT/static/css/main.06937ec2.css",
+    "main.js": "/FARM-MANAGEMENT/static/js/main.b8430b05.js",
+    "static/js/453.8196612d.chunk.js": "/FARM-MANAGEMENT/static/js/453.8196612d.chunk.js",
+    "static/media/bg.jpg": "/FARM-MANAGEMENT/static/media/bg.a03c84f1682d2742db2d.jpg",
+    "static/media/employee.jpg": "/FARM-MANAGEMENT/static/media/employee.c2b2feb789877535e0da.jpg",
+    "static/media/inventory.jpg": "/FARM-MANAGEMENT/static/media/inventory.aa5b2b306e59b2f86f6e.jpg",
+    "static/media/expense.jpg": "/FARM-MANAGEMENT/static/media/expense.8615fd7c93cc27651584.jpg",
+    "static/media/payroll.jpg": "/FARM-MANAGEMENT/static/media/payroll.f0674d594309573eac9f.jpg",
+    "static/media/cow.jpg": "/FARM-MANAGEMENT/static/media/cow.b2556f5493a1683f7a3e.jpg",
+    "index.html": "/FARM-MANAGEMENT/index.html",
+    "main.06937ec2.css.map": "/FARM-MANAGEMENT/static/css/main.06937ec2.css.map",
+    "main.b8430b05.js.map": "/FARM-MANAGEMENT/static/js/main.b8430b05.js.map",
+    "453.8196612d.chunk.js.map": "/FARM-MANAGEMENT/static/js/453.8196612d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06937ec2.css",
+    "static/js/main.b8430b05.js"
+  ]
+}
